@@ -11,6 +11,10 @@ https://docs.nativescript.org/tutorials/build-a-master-detail-app-with-plain-typ
 
 See the following for more detailed instructions: https://docs.nativescript.org/setup/macos
 
+## Tips
+
+-   When using `asdf` create a `~/.tool-versions` and align the versions to the system.
+
 ## Troubleshooting
 
 -   Make sure to have asdf plugins for each of the tools listed in `.tool-versions`.
