@@ -20,3 +20,4 @@ See the following for more detailed instructions: https://docs.nativescript.org/
 -   Make sure to have asdf plugins for each of the tools listed in `.tool-versions`.
 -   Make sure to `asdf reshim` after installing the NativeScript CLI.
 -   If Ruby fails to install because `yaml` is missing, try `brew install libyaml` first.
+-   If `ns doctor ios` fails because of `cocoapods` you may need to update your system's ruby version.
