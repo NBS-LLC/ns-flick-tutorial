@@ -3,4 +3,6 @@ https://docs.nativescript.org/tutorials/build-a-master-detail-app-with-plain-typ
 
 ## Prerequisites
 
+- [Android Studio](https://developer.android.com/studio)
 - [ASDF](https://asdf-vm.com/)
+- [Xcode](https://developer.apple.com/xcode/)
