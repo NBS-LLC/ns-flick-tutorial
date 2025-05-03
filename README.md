@@ -13,4 +13,6 @@ See the following for more detailed instructions: https://docs.nativescript.org/
 
 ## Troubleshooting
 
+-   Make sure to have asdf plugins for each of the tools listed in `.tool-versions`.
 -   Make sure to `asdf reshim` after installing the NativeScript CLI.
+-   If Ruby fails to install because `yaml` is missing, try `brew install libyaml` first.
