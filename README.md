@@ -13,7 +13,7 @@ See the following for more detailed instructions: https://docs.nativescript.org/
 
 ## Tips
 
--   When using `asdf` create a `~/.tool-versions` and align the versions to the system.
+-   When using `asdf` create a `~/.tool-versions` to pin your system tools to their original versions.
 
 ## Troubleshooting
 
